@@ -32,6 +32,8 @@ The script:
 
 - Python
 
+![Failed Login Analyser Screenshot](failed-login-analyser.jpeg)
+
 ## Future Improvements
 
 - Export results to CSV
