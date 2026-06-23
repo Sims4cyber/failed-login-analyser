@@ -34,6 +34,15 @@ The script:
 
 ![Failed Login Analyser Screenshot](login-analyser-output.jpeg)
 
+## How to Run
+
+1. Download or clone this repository
+2. Make sure `login_analyser.py` and `logins.txt` are in the same folder
+3. Run the script using:
+
+```bash
+python3 login_analyser.py
+
 ## Future Improvements
 
 - Export results to CSV
