@@ -1,0 +1,8 @@
+user1,success
+user2,failed
+user2,failed
+user3,success
+user4,failed
+user2,failed
+user5,failed
+user6,success
