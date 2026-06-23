@@ -52,6 +52,16 @@ python3 login_analyser.py
 - Dashboard visualisation
 - Integration with SIEM platforms
 
+## Key Learning Outcomes
+
+Through this project, I developed experience with:
+
+- Reading and processing log files using Python
+- Identifying failed authentication attempts
+- Working with dictionaries and loops for data analysis
+- Automating repetitive security monitoring tasks
+- Documenting and presenting technical work on GitHub
+
 ## Author
 
 **Simeon Balogun**
