@@ -32,7 +32,7 @@ The script:
 
 - Python
 
-![Failed Login Analyser Screenshot](failed-login-analyser.jpeg)
+![Failed Login Analyser Screenshot](login-analyser-output.jpeg)
 
 ## Future Improvements
 
