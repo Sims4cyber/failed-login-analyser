@@ -42,6 +42,7 @@ The script:
 
 ```bash
 python3 login_analyser.py
+```
 
 ## Future Improvements
 
